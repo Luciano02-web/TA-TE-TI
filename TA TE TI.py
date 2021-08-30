@@ -150,7 +150,7 @@ while turno < 9:
         print(valor)
     
     if turno==9:
-        print('Empate..')
+        print('empate..')
         
         
         
